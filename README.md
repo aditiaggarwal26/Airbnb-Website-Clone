@@ -121,7 +121,6 @@ CREATE TABLE properties (
 
 ## ⚠️ Important Notes
 
-* Payment fields are for demo only (no real transactions)
 * Input validation and security can be improved (SQL injection, etc.)
 
 ---
